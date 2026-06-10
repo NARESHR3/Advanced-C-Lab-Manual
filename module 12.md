@@ -1,6 +1,6 @@
 ## EXP NO 26: C PROGRAM TO DISPLAY STACK ELEMENTS USING LINKED LIST.
-## NAME: Adithya Sivakumar
-## REG NO: 212224040013
+## NAME: NARESH.R
+## REG NO: 212223240104
 Aim:
 To write a C program to display stack elements using linked list.
 
